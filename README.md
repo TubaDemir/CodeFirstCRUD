@@ -1,1 +1,1 @@
-Code First yaklaşımı ile Öğretmen Öğrenci ilişkisi üzerine seçilen öğretmenin öğrencilerini listeleyen WinForms Projesi
+Code First yaklaşımı ile çoka çok ilişki olan ve seçilen öğretmenin öğrencilerini listeleyen WinForms Projesi
